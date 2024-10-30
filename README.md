@@ -5,8 +5,8 @@ A responsive website showcasing football team player stats in a card-based layou
 ---
 
 ## 🌐 Personal Links
-- [GitHub](https://github.com/ELORF-Lahcen)
-- [LinkedIn](www.linkedin.com/in/lahcenelorf)
+- [🌐 LinkedIn](https://www.linkedin.com/in/lahcenelorf/).
+- [👨‍💻 Github](https://github.com/ELORF-Lahcen).
 
 ---
 
