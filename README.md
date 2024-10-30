@@ -2,6 +2,14 @@
 
 A responsive website showcasing football team player stats in a card-based layout. This project leverages **HTML**, **CSS**, and **JavaScript** to display detailed player information and enable position-based filtering.
 
+---
+
+## 🌐 Personal Links
+- [GitHub](https://github.com/ELORF-Lahcen)
+- [LinkedIn](www.linkedin.com/in/lahcenelorf)
+
+---
+
 ## 🔗 [Live Demo](https://elorf-lahcen.github.io/FootballTeamCardsProject/)
 <div align="center">
     <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=white" />
@@ -29,11 +37,35 @@ A responsive website showcasing football team player stats in a card-based layou
 
 ---
 
-## 🚀 Getting Started
-
 ### 🛠️ Setup Instructions
 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/elorf-lahcen/FootballTeamCardsProject.git
 
+--- 
+
+## 📂 Project Structure
+
+```plaintext
+FootballTeamCardsProject/
+├── index.html       # Main HTML file
+├── styles.css       # Main CSS file for styling
+└── script.js        # JavaScript file for interactivity
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! If you have suggestions or improvements, please open a pull request.
+
+1. Fork the project.
+2. Create a new feature branch (`git checkout -b feature/YourFeature`).
+3. Commit your changes (`git commit -m 'Add YourFeature'`).
+4. Push to your branch (`git push origin feature/YourFeature`).
+5. Open a Pull Request.
+
+---
+
+👨‍💻 Made with ❤️ by [Lahcen ELORF](https://github.com/elorf-lahcen)
