@@ -1,6 +1,6 @@
 # ⚽ FootballTeamCardsProject
 
-A responsive website showcasing football team player stats in a card-based layout. This project leverages **HTML**, **CSS**, and **JavaScript** to display detailed player information and enable position-based filtering.Lahcen
+A responsive website showcasing football team player stats in a card-based layout. This project leverages **HTML**, **CSS**, and **JavaScript** to display detailed player information and enable position-based filtering.
 
 ---
 
